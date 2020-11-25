@@ -1,6 +1,11 @@
-# docker-pact-broker-cli
+# docker-pact-broker-cli (deprecated)
 
 A docker image around https://github.com/pact-foundation/pact_broker-client
+
+
+## Deprecation notice
+
+By now pact provides their own docker image for the cli tools, so use this instead: https://hub.docker.com/r/pactfoundation/pact-cli.
 
 
 ## Usage
